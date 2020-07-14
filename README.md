@@ -1,4 +1,6 @@
-### Hi there 👋
+## Everton Cordeiro
+[![linkedin](https://user-images.githubusercontent.com/55243431/87467273-139a7780-c5ee-11ea-9439-0da097f8e948.png)](https://www.linkedin.com/in/everton-cordeiro/) [![telegram](https://user-images.githubusercontent.com/55243431/87467492-6d9b3d00-c5ee-11ea-83b6-b9cf18acb2e8.jpg)](https://t.me/evertoncordeiro) [![youtube](https://user-images.githubusercontent.com/55243431/87468408-f5ce1200-c5ef-11ea-9eac-9481028566c8.png)](https://www.youtube.com/channel/UCqHQRJ2QVnSFSLdL5DLyvmg)
+### E aiii 👋
 
 <!--
 **linuxxstart/linuxxstart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+.
